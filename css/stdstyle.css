@@ -185,13 +185,14 @@ div#header form{
 }
 
 div.cartewrap{
-    width: 600px;
-    margin-left: 100px;
+    width: 400px;
+    margin-left: 200px;
 }
 
 div.carte{
     float: left;
-    width: 150px;
+    width: 200px;
+    margin-bottom: 10px;
 }
 
 
